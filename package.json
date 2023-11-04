@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "gamedig": "^2.0.23",
+    "mysql": "^2.18.1"
+  }
+}
